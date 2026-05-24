@@ -1,6 +1,7 @@
 <img width="563" height="565" alt="Capture" src="https://github.com/user-attachments/assets/649d78dd-bdb1-4e63-a170-d01970b64bf2" />
+
 🚀🔥 POWERFUL ISP SOLUTIONS – LIFETIME LICENSES AVAILABLE! 🔥🚀
-━━━━━━━━━━━━━━━━━━━
+
 🌐 ZALPRO RADIUS SERVER
 💎 Lifetime License
   *zalpro demo link*
@@ -34,6 +35,3 @@ password 1111
 📞 Contact Now:
 👤 Muhammad Irfan
 📱 0308-9215893
-
-# Demo-zalpro
-http://141.145.151.196:1064/login
